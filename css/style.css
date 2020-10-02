@@ -19,7 +19,7 @@ body {
 }
 
 .jumbotron {
-  height: 100vh;
+  padding: 0;
   background: #f9fafb;
 }
 
@@ -42,6 +42,7 @@ body {
   border: #ed1c24;
   box-shadow: none;
 }
+
 .btn:active {
   background: #ed1c24 !important;
   border: #ed1c24 !important;
