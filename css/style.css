@@ -1,9 +1,9 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .okgray {
-  color: #C8C8C8;
+  color: #c8c8c8;
 }
 
 .oksubtitle {
@@ -15,20 +15,47 @@ body {
 }
 
 .navbar {
-  background: #ED1C24;
+  background: #ed1c24;
+}
+
+.jumbotron {
+  height: 100vh;
+  background: #f9fafb;
+}
+
+.error {
+  border: 1px solid #ed1c24;
 }
 
 .btn {
-  background: #ED1C24;
-  border: #ED1C24;
+  background: #ed1c24;
+  border: #ed1c24;
 }
 
 .btn:hover {
-  background: #ED1C24;
-  border: #ED1C24;
+  background: #ed1c24;
+  border: #ed1c24;
+}
+
+.btn:focus {
+  background: #ed1c24;
+  border: #ed1c24;
+  box-shadow: none;
+}
+.btn:active {
+  background: #ed1c24 !important;
+  border: #ed1c24 !important;
 }
 
 footer {
   height: 100px;
-  background: #ED1C24;
+  background: #ed1c24;
+}
+
+.swal2-styled.swal2-confirm {
+  background: #ed1c24 !important;
+}
+
+.swal2-styled:focus {
+  box-shadow: 0 0 black !important;
 }
