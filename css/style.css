@@ -2,6 +2,23 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-p {
-  font-family: 'Lilita One', cursive;
+.okgray {
+  color: #C8C8C8;
+}
+
+.oksubtitle {
+  font-size: 1.125rem;
+}
+
+.okfontsmall {
+  font-size: 12px;
+}
+
+.navbar {
+  background: #ED1C24;
+}
+
+footer {
+  height: 100px;
+  background: #ED1C24;
 }
