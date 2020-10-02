@@ -18,6 +18,16 @@ body {
   background: #ED1C24;
 }
 
+.btn {
+  background: #ED1C24;
+  border: #ED1C24;
+}
+
+.btn:hover {
+  background: #ED1C24;
+  border: #ED1C24;
+}
+
 footer {
   height: 100px;
   background: #ED1C24;
